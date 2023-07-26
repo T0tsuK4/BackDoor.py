@@ -46,10 +46,6 @@ O script faz uso do módulo `logging` para registrar eventos importantes e erros
 
 - O autor do código não é responsável pelo uso indevido deste software e não assume qualquer responsabilidade por quaisquer consequências resultantes do uso inadequado.
 
-## Agradecimentos
-
-Este código foi criado com propósitos educacionais e segue os princípios de uso ético e legal da tecnologia. Agradecemos a todos os desenvolvedores e contribuidores envolvidos na criação de tecnologias que tornam a Internet e os sistemas mais seguros e eficientes.
-
 ## Licença
 
 Este código é fornecido sob a [licença MIT](LICENSE).
